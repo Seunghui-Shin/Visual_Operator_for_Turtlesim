@@ -32,6 +32,6 @@ Mission #3
 - roslaunch turtlebot3_gazebo turtlebot3_world.launch
 - rosrun visual_operator my_publisher
 
-# Result
+# Results
 ![image](https://user-images.githubusercontent.com/83438707/181257617-e95cb679-73aa-445e-bc98-beb1097b5a93.png)
 ![image](https://user-images.githubusercontent.com/83438707/181257854-b584b534-b146-46ea-8e0a-b844ba923983.png)
